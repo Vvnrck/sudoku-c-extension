@@ -1,0 +1,31 @@
+Sudoku generation time (x1000):
+    Python module: 81.3256 s.
+    C module: 4.3799 s. (18.57 times faster)
+    System:
+        Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+        Windows 7 6.1.7601
+
+
+Sudoku generation time (x1000):
+    Python module: 79.4939s.
+    C module: 4.2229s. (18.82 times faster)
+	System:
+        Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+        Windows 7 6.1.7601
+
+
+Sudoku generation time (x1000):
+    Python module: 77.9269s.
+    C module: 4.5962s. (16.95 times faster)
+    System:
+        Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+        Windows 7 6.1.7601
+
+
+Sudoku generation time (x1000):
+    Python module: 79.2222s.
+    C module: 4.2774s. (18.52 times faster)
+    System:
+        Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+        Windows 7 6.1.7601
+
